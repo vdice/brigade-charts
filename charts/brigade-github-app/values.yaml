@@ -1,6 +1,6 @@
 # Set this to true to enable Kubernetes RBAC support (recommended)
 rbac:
-  enabled: false
+  enabled: true
 
 serviceAccount:
   create: true
@@ -43,7 +43,7 @@ gateway:
     - COLLABORATOR
 
 github:
-  # The x509 PEM-formatted keyfile GitHub issued for you App.
+  # The x509 PEM-formatted keyfile GitHub issued for your App.
   key: |
     REQUIRED: Your key goes here.
   # This represents the unique ID for a GitHub App
