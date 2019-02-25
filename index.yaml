@@ -3,31 +3,271 @@ entries:
   brigade:
   - apiVersion: v1
     appVersion: v0.20.0
-    created: 2019-02-25T21:03:13.818733877Z
+    created: 2019-02-25T21:25:14.098489164Z
     description: Brigade provides event-driven scripting of Kubernetes pipelines.
-    digest: 55db2b45212a4e599f3bdc71294a2c9d4d4f5400fe65da43ebcd0339004b91b4
+    digest: 64f1b7e1d44794b9077a0234a420941ad484b39c497a4e2d543b111b272cfeb4
     name: brigade
     urls:
     - brigade-0.21.0.tgz
     version: 0.21.0
+  - apiVersion: v1
+    appVersion: v0.20.0
+    created: 2019-02-25T21:25:14.096965053Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 2d4a65289f1fc1d4cf5f56b4007a566e5712ebc39d35a1bca823382906d19d4a
+    name: brigade
+    urls:
+    - brigade-0.20.0.tgz
+    version: 0.20.0
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.095628043Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 78ddc37353461cd7e7a1ba1fd8235cf18b299cc7073f38ac0dcd53ef2246359e
+    name: brigade
+    urls:
+    - brigade-0.19.5.tgz
+    version: 0.19.5
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.094471334Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: b82b921b00e861dbedbfa729ccd6a323e8cfaee92d7dc7a7469f3bdde448842a
+    name: brigade
+    urls:
+    - brigade-0.19.4.tgz
+    version: 0.19.4
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.093491427Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 54227906d1f73a2c7123a9e99b64a0745b4eacc04a16ef69ab8fbb730711a31e
+    name: brigade
+    urls:
+    - brigade-0.19.3.tgz
+    version: 0.19.3
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.092430319Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: b006d4b0ee52d0a74abdec4f825bdccdb50f6f2daeec2f21205daea7717af3c4
+    name: brigade
+    urls:
+    - brigade-0.19.2.tgz
+    version: 0.19.2
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.091715013Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 7a80f890ff14cfa64477b465450ca51c534beb6f067923175c3f265741474df9
+    name: brigade
+    urls:
+    - brigade-0.19.1.tgz
+    version: 0.19.1
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.08193154Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 4fc9dfbf7426ec8f35b3295197452a135b0e4d7f22f3b82fc898550076750702
+    name: brigade
+    urls:
+    - brigade-0.19.0.tgz
+    version: 0.19.0
+  - apiVersion: v1
+    appVersion: v0.18.0
+    created: 2019-02-25T21:25:14.081053934Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 8adf138f0c9123da535794301cdd0cf7a26ba69673cc9cb3674e17e36a62aeb5
+    name: brigade
+    urls:
+    - brigade-0.18.0.tgz
+    version: 0.18.0
+  - apiVersion: v1
+    appVersion: v0.17.0
+    created: 2019-02-25T21:25:14.080222627Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: d1f0f0c673fb7ca9350e0ce7d2f33e4e2194fa73efdcf9012b1aac331263decc
+    name: brigade
+    urls:
+    - brigade-0.17.0.tgz
+    version: 0.17.0
+  - apiVersion: v1
+    appVersion: v0.16.0
+    created: 2019-02-25T21:25:14.079385021Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 67b1954fd956973e960e21612cd7e40dacf7a65dcef5e752e3f7be8840cefe50
+    name: brigade
+    urls:
+    - brigade-0.16.0.tgz
+    version: 0.16.0
+  - apiVersion: v1
+    appVersion: v0.15.0
+    created: 2019-02-25T21:25:14.078405614Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 892173390fe6be0e9054525c69acc15c49841c97bb715a08e21548645e6ce02e
+    name: brigade
+    urls:
+    - brigade-0.15.0.tgz
+    version: 0.15.0
+  - apiVersion: v1
+    appVersion: v0.14.0
+    created: 2019-02-25T21:25:14.077433807Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 1c15aa023a8e3d33efb0c6239318e1d956d714d5f23616d0a68a67993b411820
+    name: brigade
+    urls:
+    - brigade-0.14.0.tgz
+    version: 0.14.0
+  - apiVersion: v1
+    appVersion: v0.13.1
+    created: 2019-02-25T21:25:14.076638801Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 11869f3ea5d093098f859bbdc171be960f73bf5054bdf6a8aa086c3d69495f75
+    name: brigade
+    urls:
+    - brigade-0.13.1.tgz
+    version: 0.13.1
+  - apiVersion: v1
+    appVersion: v0.13.0
+    created: 2019-02-25T21:25:14.075747794Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 86acb511ffd5083e4957479f608411e711eaa1d0ca3da8a50e67a523f2a7a871
+    name: brigade
+    urls:
+    - brigade-0.13.0.tgz
+    version: 0.13.0
+  - apiVersion: v1
+    appVersion: v0.12.0
+    created: 2019-02-25T21:25:14.072126967Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 90e1cdef4303e39fb105c3a0f745a2d802bb44deaffa29f9c25933fcd53ab262
+    name: brigade
+    urls:
+    - brigade-0.12.0.tgz
+    version: 0.12.0
+  - apiVersion: v1
+    appVersion: v0.11.0
+    created: 2019-02-25T21:25:14.071069259Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 40bc429edc50b66cd8ab51f419d0652b51d2aed5804fc2769b781b833168c582
+    name: brigade
+    urls:
+    - brigade-0.11.0.tgz
+    version: 0.11.0
+  - apiVersion: v1
+    appVersion: v0.10.0
+    created: 2019-02-25T21:25:14.069649748Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 16d6257160bb2d918a177fe8a6bc2fea97503360e79f3038052d29a7ffa1db0a
+    name: brigade
+    urls:
+    - brigade-0.10.0.tgz
+    version: 0.10.0
+  - apiVersion: v1
+    appVersion: v0.9.0
+    created: 2019-02-25T21:25:14.102880197Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: c412e81afb4d412ce13390552d8d13bc8844138801e75a3b135fb368513e4fc0
+    name: brigade
+    urls:
+    - brigade-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v1
+    appVersion: v0.8.0
+    created: 2019-02-25T21:25:14.102182392Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 60a1094cea6fb6d6446e831e6709a87a8cd1e5ae61aff79508244fda07b526fd
+    name: brigade
+    urls:
+    - brigade-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v1
+    appVersion: v0.7.0
+    created: 2019-02-25T21:25:14.101625087Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 9eba7bb5f2ec83ebf6b56a58773ecf7d5d9f0bb04b54c8775b06f031d452c956
+    name: brigade
+    urls:
+    - brigade-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v1
+    appVersion: v0.6.0
+    created: 2019-02-25T21:25:14.101060583Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 1c8ab3ee88a99c6e5cd5fc91bf645d1a267634b7bc73fe03e0f4b9775c1aae0c
+    name: brigade
+    urls:
+    - brigade-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v1
+    appVersion: v0.5.0
+    created: 2019-02-25T21:25:14.100171477Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 515903c641fd1bc720db8d32c1e37d9550b5144b426c61805a953eada012ac53
+    name: brigade
+    urls:
+    - brigade-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    appVersion: v0.4.0
+    created: 2019-02-25T21:25:14.099757373Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 13a89ce5c3d78558ed9d318bed188f117fe0383570ab68d6d9cdd2b1ee76434b
+    name: brigade
+    urls:
+    - brigade-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
+    appVersion: v0.3.0
+    created: 2019-02-25T21:25:14.09934677Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 75369780f6354af84cef79e1c2baa386f2862c149ac779edb0cbcc5b65c690ed
+    name: brigade
+    urls:
+    - brigade-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.098939067Z
+    description: Brigade provides event-driven scripting of Kubernetes pipelines.
+    digest: 2e8d80d6a029b52e6412cf6931fc0622f98aca6f62666ab759158c415a6d0eb8
+    name: brigade
+    urls:
+    - brigade-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.096111646Z
+    description: A Helm chart for Kubernetes
+    digest: 840b801a258a070bbcb6ff0ea7194202f6db2b40a9a10ff28fef5de9c1813b20
+    name: brigade
+    urls:
+    - brigade-0.2.0.tgz
+    version: 0.2.0
   brigade-github-app:
   - apiVersion: v1
-    created: 2019-02-25T21:03:13.819366979Z
+    created: 2019-02-25T21:25:14.103558702Z
     description: The Brigade GitHub App, an advanced gateway for GitHub
-    digest: 51c684893e50159884b4086055756cec9744f26196205c863f0ebc5eb3e6f6ba
+    digest: 8e9a8c30cf90485afd6a16baf73b8b6da9a40552428d9086fb2b6b1c4b89fbed
     name: brigade-github-app
     sources:
     - https://github.com/Azure/brigade-github-app
     urls:
     - brigade-github-app-0.1.2.tgz
     version: 0.1.2
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.103228099Z
+    description: The Brigade GitHub App, an advanced gateway for GitHub
+    digest: 366e4247c99e0c4f484416c27bf3c6910d9c9f45a2cacf04a0adf4df98c468bf
+    name: brigade-github-app
+    urls:
+    - brigade-github-app-0.1.1.tgz
+    version: 0.1.1
   brigade-github-oauth:
   - apiVersion: v1
     appVersion: v0.20.0
-    created: 2019-02-25T21:03:13.81972288Z
+    created: 2019-02-25T21:25:14.103950805Z
     deprecated: true
     description: The legacy OAuth GitHub Gateway for Brigade
-    digest: e67ec7f61152c1a39397f779d7c9fb34b9ec61ae8bffe9a48b68538137f71526
+    digest: c30d879cdf3097eec711dffd2155d4aecd9d340d640baff03dc5232353edfa3d
     name: brigade-github-oauth
     sources:
     - https://github.com/brigadecore/github-gateway-oauth
@@ -36,9 +276,9 @@ entries:
     version: 0.1.0
   brigade-k8s-gateway:
   - apiVersion: v1
-    created: 2019-02-25T21:03:13.820015381Z
+    created: 2019-02-25T21:25:14.104240007Z
     description: A Helm chart for Kubernetes
-    digest: c39f1c374f166aa90c3403f3a236c4bcce9cae02590cdc6077f0c48e33376820
+    digest: 53106c3095c7bba495965de2d8c79ce48e51a5b324eeb3b9d7193c48135b1b6e
     name: brigade-k8s-gateway
     urls:
     - brigade-k8s-gateway-0.1.0.tgz
@@ -46,20 +286,208 @@ entries:
   brigade-project:
   - apiVersion: v1
     appVersion: v0.20.0
-    created: 2019-02-25T21:03:13.820494782Z
+    created: 2019-02-25T21:25:14.125674467Z
     description: Create a Brigade project
-    digest: 8ed70dbd66e65979758d3b39e007fd135377ddb4c8a76efc466875bf7efc3acb
+    digest: 6dddead63f9fa35c5bca2374d6532d25cf15ea487e3b254f1b04e620eeb6049e
     name: brigade-project
     urls:
     - brigade-project-0.20.0.tgz
     version: 0.20.0
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.12477096Z
+    description: Create a Brigade project
+    digest: 2498225132e1fac860dfd9d81c8bb4e4fff5a009aeb6e4821996e32e391e30ac
+    name: brigade-project
+    urls:
+    - brigade-project-0.19.3.tgz
+    version: 0.19.3
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.123932854Z
+    description: Create a Brigade project
+    digest: 58288fee028743b4f0133c88cead0d61b4bd164f7c1a7a6553dafd10519b2e96
+    name: brigade-project
+    urls:
+    - brigade-project-0.19.2.tgz
+    version: 0.19.2
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.123197349Z
+    description: Create a Brigade project
+    digest: c244c7d1c64c82ced672ae94ce211ce45048483916c5d885d95db89ee28c0691
+    name: brigade-project
+    urls:
+    - brigade-project-0.19.1.tgz
+    version: 0.19.1
+  - apiVersion: v1
+    appVersion: v0.19.0
+    created: 2019-02-25T21:25:14.122626544Z
+    description: Create a Brigade project
+    digest: 85edaa7dbe42d412e2a5d2094934b99004faa5cacaf19c19a423ae03366c8e52
+    name: brigade-project
+    urls:
+    - brigade-project-0.19.0.tgz
+    version: 0.19.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.122143141Z
+    description: Create a Brigade project
+    digest: e98cb2fcb51da05a431e04387a7669d3b2ee7591338644582751049918719a58
+    name: brigade-project
+    urls:
+    - brigade-project-0.18.0.tgz
+    version: 0.18.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.121481936Z
+    description: Create a Brigade project
+    digest: 1bcbcae430561cd7be8981621261bb6c25d045038ca41d0df708fdb5704233a6
+    name: brigade-project
+    urls:
+    - brigade-project-0.17.0.tgz
+    version: 0.17.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.120358727Z
+    description: Create a Brigade project
+    digest: 72737ce6ce8ac8f8c61694462cb2f9ba352a4bc580bed2ed453528e96a4f5a68
+    name: brigade-project
+    urls:
+    - brigade-project-0.16.0.tgz
+    version: 0.16.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.119579422Z
+    description: Create a Brigade project
+    digest: 22ea07b9e93a148624483bb83dc877b956a190542444db4ad0ee95bcf70d5d70
+    name: brigade-project
+    urls:
+    - brigade-project-0.15.0.tgz
+    version: 0.15.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.11799311Z
+    description: Create a Brigade project
+    digest: 047435955397ff1ae4a9987fa789ebc6ed6a1089bcc11301d27f15a5e3b52c31
+    name: brigade-project
+    urls:
+    - brigade-project-0.14.0.tgz
+    version: 0.14.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.117544906Z
+    description: Create a Brigade project
+    digest: 3071801fa41efd910b682df60795db973127553f1d27802acc538a80a7db870a
+    name: brigade-project
+    urls:
+    - brigade-project-0.13.1.tgz
+    version: 0.13.1
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.117114603Z
+    description: Create a Brigade project
+    digest: 19cf93b6a139f38d64f76d86e30866b8229c9687f77757355416c620288adf58
+    name: brigade-project
+    urls:
+    - brigade-project-0.13.0.tgz
+    version: 0.13.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.1166715Z
+    description: Create a Brigade project
+    digest: 14f9ccbb3addb739efe873c7709571763a6d1b803e6c9b0377e59c928475e16d
+    name: brigade-project
+    urls:
+    - brigade-project-0.12.0.tgz
+    version: 0.12.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.112998972Z
+    description: Create a Brigade project
+    digest: 9cefccdca47ce309cd0813aed9bd17cda27a3bbfa56b1634566e1a575e2c9e66
+    name: brigade-project
+    urls:
+    - brigade-project-0.11.0.tgz
+    version: 0.11.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.104546009Z
+    description: Create a Brigade project
+    digest: 054a76ffb2fa1cb5aec3b55693905d60454bbd3971c7e7786734ae6190fa7db0
+    name: brigade-project
+    urls:
+    - brigade-project-0.10.0.tgz
+    version: 0.10.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.128051585Z
+    description: Create a Brigade project
+    digest: 0dfad2f8d2291acfcdace0ad8daa3738a9e4e13f12cab20b29e26ee28fc09b44
+    name: brigade-project
+    urls:
+    - brigade-project-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.127704482Z
+    description: Create a Brigade project
+    digest: 6c2be2b1d3214c1b06cb18499b413647ac60701b6c12c868e8e857de28eb968b
+    name: brigade-project
+    urls:
+    - brigade-project-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.127274479Z
+    description: Create a Brigade project
+    digest: 042b85f0701d3a0083bc08527b67bf4828874a0726cfc5afc07e169eb1865258
+    name: brigade-project
+    urls:
+    - brigade-project-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.126982577Z
+    description: Create a Brigade project
+    digest: c3e3b65091ece3aec5f52df2a6625b95de8eaf4d47d327706671ec9d7afa015a
+    name: brigade-project
+    urls:
+    - brigade-project-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.126661775Z
+    description: Create a Brigade project
+    digest: bb59a0fee70f037973623f38c6bc40dccee0634f2672096f172b294583ce33d7
+    name: brigade-project
+    urls:
+    - brigade-project-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.126387173Z
+    description: Create a Brigade project
+    digest: bb5c51cb903c3b70602505fb7234afd18bb521398b1f0f1cd0b0b2811843522c
+    name: brigade-project
+    urls:
+    - brigade-project-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.12599507Z
+    description: Create a Brigade project
+    digest: ccd6d193fb012cd41d74ce1255dbce296acbc0f12af3099e5ac0d31985e26118
+    name: brigade-project
+    urls:
+    - brigade-project-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.125088763Z
+    description: Create an Brigade project
+    digest: 637d46ff4f147f8490806a49251a851aa8db3c2c181056f91191dd06d94d4f78
+    name: brigade-project
+    urls:
+    - brigade-project-0.2.0.tgz
+    version: 0.2.0
   kashti:
   - apiVersion: v1
-    created: 2019-02-25T21:03:13.820824483Z
+    created: 2019-02-25T21:25:14.128636589Z
     description: A Helm chart for Kubernetes
-    digest: 891d7adcc4496ae52d292123e90d6b8739ea45bb2f74f091b990f768ce4409cb
+    digest: 759df2cc019ad5b4abd39e0de21aefe37eae658e809d55faf3fc31b42654bc5e
     name: kashti
     urls:
     - kashti-0.1.1.tgz
     version: 0.1.1
-generated: 2019-02-25T21:03:13.816808571Z
+  - apiVersion: v1
+    created: 2019-02-25T21:25:14.128349087Z
+    description: A Helm chart for Kubernetes
+    digest: 695b20ffba1719137560cddb23ae6ffd129dc9357f0cf73fbe176fdd0d015e72
+    name: kashti
+    urls:
+    - kashti-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-02-25T21:25:14.064306508Z
