@@ -208,6 +208,8 @@ genericGateway:
     #   - secretName: brigade-events
     #     hosts:
     #     - brigade-events.subdomain.domain.com
+    #     crt: "Insert unencoded cert string here"
+    #     key: "Insert unencoded key string here"
 
 
 # The vacuum periodically cleans up old builds.

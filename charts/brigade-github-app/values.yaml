@@ -27,10 +27,11 @@ ingress:
     kubernetes.io/ingress.class: nginx
     kubernetes.io/tls-acme: "true"
   tls:
-    # Secrets must be manually created in the namespace.
     - secretName: gh-app-tls
       hosts:
       - gh-app.example.com
+      crt: "Insert unencoded cert string here"
+      key: "Insert unencoded key string here"
 
 gateway:
   # The author associations who are allowed to have PRs built
