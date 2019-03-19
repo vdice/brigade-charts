@@ -1,20 +1,19 @@
 
 # Brigade Charts
 
-Helm charts for the [Azure/Brigade](https://github.com/Azure/brigade) project
+Helm charts for the [Brigade](https://github.com/brigadecore/brigade) project have been moved to
+[brigadecore/charts](https://github.com/brigadecore/charts).
 
-**Under Construction**: Charts are currently being transferred to this repository from other sources.
+During the transitional phase, we will continue to serve an index file in this repo pointing
+to the new chart URL of `https://brigadecore.github.io/charts`.
 
-# Contributing
+All subsequent chart releases will be served at this URL.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+Please update your local Helm repo:
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+  ```
+  helm repo remove brigade
+  helm repo add brigade https://brigadecore.github.io/charts
+  ```
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This repo will be deleted after the transition is complete.
